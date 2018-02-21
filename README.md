@@ -7,4 +7,5 @@ Here you find a free sample video https://youtu.be/vsmKOhw49bA.
 You can find the full Docker video training on our platform www.learn4nav.com
 
 The files can be used without the video training too. 
-Note documentation officially: https://docs.docker.com/docker-for-windows/
+
+Note official documentation: https://docs.docker.com/docker-for-windows/
